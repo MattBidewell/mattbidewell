@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+I'm Matt, currently working as a senior software engineer at A Million Ads building highly scalable SaaS solutions in the adtech world.
+
+- 😄 Pronouns: `He/Him`
+
+
 <!--
 **MattBidewell/mattbidewell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
