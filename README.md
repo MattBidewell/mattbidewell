@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Matt, currently working as a senior software engineer at GDS!
+I'm Matt, currently working as a software engineer at GDS!
 - 😄 Pronouns: `He/Him`
 
 
