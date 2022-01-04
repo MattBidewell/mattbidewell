@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-I'm Matt, currently working as a senior software engineer at A Million Ads building highly scalable SaaS solutions in the adtech world.
-
+I'm Matt, currently working as a senior software engineer at GDS!
 - 😄 Pronouns: `He/Him`
 
 
