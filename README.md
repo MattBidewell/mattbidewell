@@ -7,8 +7,7 @@ I'm Matt, currently working as a software engineer at GDS!
 - 💬 Ask me about NodeJS, CyberSecurity or just a chat!
 - ⚡ Fun fact: I once won the local battle of the bands, 🎸
 
-Visit [Matty.dev](https://matty.dev) for more about me.
-
+Visit [Matty.dev](https://matty.dev) to find out a little more!
 
 <!--
 **MattBidewell/mattbidewell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
