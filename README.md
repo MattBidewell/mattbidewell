@@ -5,7 +5,7 @@ I'm Matt, currently working as a software engineer at GDS!
 - 😄 Pronouns: `He/Him`
 - 🔭 I’m currently working on Digital Identity at GDS
 - 💬 Ask me about NodeJS, CyberSecurity or just a chat!
-- ⚡ Fun fact: I once won the local battle of the bands, 🎸
+- ⚡ Fun fact: I once won the local battle of the bands, 🎸 🎶
 
 Visit [Matty.dev](https://matty.dev) to find out a little more!
 
