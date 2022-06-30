@@ -1,25 +1,12 @@
-### Heyyoooo 👋
+# Hello world 👋
 
-I'm Matt, currently working as a software engineer at GDS!
+I'm Matt, I'm an engineer at GDS based in London. Building services on AWS with Javascript/Typescript (nodejs), GoLang or whatever is needed to solve the business problem.
 
-- 😄 Pronouns: `He/Him`
-- 🔭 I’m currently working on Digital Identity at GDS
-- 💬 Ask me about NodeJS, CyberSecurity or just a chat!
-- ⚡ Fun fact: I once won the local battle of the bands 🎸 🎶
+A little about me, I'm passionate about open source software and developing in the open. In my spare time
 
-Visit [Matty.dev](https://matty.dev) to find out a little more!
+I'm always up for working on open source projects, so feel free to reach out!
 
-<!--
-**MattBidewell/mattbidewell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📌 Where to find me
+- [👨‍💻 Matty.dev](https://matty.dev)
+- [🐥 Twitter - @MattBidewell](https://twitter.com/MattBidewell)
+- [📰 Medium Blog - @mattBidewell](https://medium.com/@mattbidewell)
