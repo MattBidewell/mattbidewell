@@ -1,12 +1,11 @@
 # Hello world 👋
 
-I'm Matt, an engineer at GDS based in London. Building services on AWS with Javascript/Typescript, GoLang, Java or whatever is needed to solve the business problem.
+I'm Matt, an software engineer currently working [@GDS](https://www.gov.uk/) in London. 
 
-A little about me, I'm passionate about open source software and developing in the open.
-
-I'm always up for working on open source projects, so feel free to reach out!
+A little about me, I'm passionate about open source software, cybersecurity and developing in the open.
 
 ### 📌 Where to find me
 - [👨‍💻 Matty.dev](https://matty.dev)
 - [🐥 Twitter - @MattBidewell](https://twitter.com/MattBidewell)
+- [🔑 Keybase - @MattBidewell](https://keybase.io/mattbidewell)
 - [📰 Medium Blog - @mattBidewell](https://medium.com/@mattbidewell)
