@@ -1,6 +1,6 @@
 # Hello world 👋
 
-I'm Matt, an software engineer currently working [@beamery](https://beamery.com/) in London.
+I'm Matt, a software engineer currently working [@beamery](https://beamery.com/) in London.
 
 A little about me, I'm passionate about open source software, cybersecurity and developing in the open.
 
